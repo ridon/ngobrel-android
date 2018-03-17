@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ngobrel</string>
+    <string name="prompt_email">contoh Surel, Nomor Ponsel, lainnya</string>
+    <string name="prompt_password">Ketik Sandi</string>
+    <string name="prompt_displayname">Ketik Nama Tampilan</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="error_invalid_email">Alamat surel tidak benar</string>
+    <string name="error_invalid_password">Sandi terlalu pendek</string>
+    <string name="error_incorrect_password">Sandi salah</string>
+    <string name="error_field_required">Harus diisi</string>
+    <string name="option_menu_done">selesai</string>
+    <string name="permission_rationale">"Izin kontak diperlukan untuk memberikan penyelesaian surel."
+    </string>
+    <string name="create_group_chat">Buat Grup</string>
+    <string name="group_name_hint">Nama Grup</string>
+    <string name="group_upload_text">Beri nama grup dan foto grup</string>
+    <string name="chat_with_stranger">Pengguna Lain</string>
+    <string name="stranger_chat_guidance">"Ketik nama pengguna\n\ncontoh:&quot;demo@ngobrel.ridon.id&quot; "</string>
+    <string name="empty_room_guidance">Mulai obrolan 1 per 1 dengan orang asing atau obrolan berkelompok dengan teman Anda. </string>
+    <string name="userid">Nama Pengguna</string>
+    <string name="password">Sandi</string>
+    <string name="display_name">Nama Tampilan</string>
+    <string name="logout">Keluar</string>
+    <string name="profile">Profil</string>
+    <string name="chat">Obrolan</string>
+    <string name="contacts">Kontak</string>
+    <string name="new_chat">Obrolan Baru</string>
+    <string name="select_participants">Select Participants</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+</resources>

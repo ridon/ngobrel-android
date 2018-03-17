@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "171341190722",
+    "firebase_url": "https://sample-app-ebd6a.firebaseio.com",
+    "project_id": "sample-app-ebd6a",
+    "storage_bucket": "sample-app-ebd6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171341190722:android:aac109c8d7da1dc8",
+        "android_client_info": {
+          "package_name": "id.ridon.ngobrel.contoh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171341190722-6ma5nkfrff181uk1l9dlnt1gif1p0n0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnqFncAb-WyqxfxFTc92SckvOHx_3ukk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

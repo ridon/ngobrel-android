@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#0066ff</color>
+    <color name="colorPrimaryDark">#2c81ff</color>
+    <color name="colorAccent">#2c81ff</color>
+    <color name="colorSplash">#2ACB6E</color>
+    <color name="orangeIcon">#F2994A</color>
+    <color name="emojiSafeYellow">#FFE8A3</color>
+    <color name="underlineGrey">#E0E0E0</color>
+
+    <color name="accent">#FF5722</color>
+    <color name="accent_light">#FFCCBC</color>
+    <color name="account_linking_background">#DFDFDF</color>
+    <color name="camera_background">#a1887f</color>
+    <color name="contact_background">#7986cb</color>
+    <color name="dark_white">#f6f6f6</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="file_background">#64b5f6</color>
+    <color name="gallery_background">#ba68c8</color>
+    <color name="keyboard_background">#90a4ae</color>
+    <color name="left_bubble">#D0D0D0</color>
+    <color name="light_grey">#D8D8D8</color>
+    <color name="location_background">#81c784</color>
+    <color name="mention_all">#1a237e</color>
+    <color name="mention_me">#af2412</color>
+    <color name="mention_other">#009688</color>
+    <color name="primary">#009688</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="primary_text">#212121</color>
+    <color name="record_background">#4db6ac</color>
+    <color name="red">#d32f2f</color>
+    <color name="secondary_text">#727272</color>
+    <color name="transparent_black">#88000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
