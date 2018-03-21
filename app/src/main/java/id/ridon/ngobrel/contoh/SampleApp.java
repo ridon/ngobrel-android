@@ -54,6 +54,7 @@ public class SampleApp extends Application {
                 .setEnableAddLocation(true)
                 .setEmptyRoomTitleColor(R.color.orangeIcon)
                 .setAccentColor(R.color.colorAccent)
+                .setEnableEndToEndEncryption(true)
                 .getDeleteCommentConfig().setEnableDeleteComment(true);
 
         Realm.init(this);

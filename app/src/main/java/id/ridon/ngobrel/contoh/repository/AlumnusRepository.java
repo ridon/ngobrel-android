@@ -5,6 +5,8 @@ import android.os.Looper;
 import android.util.Log;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 import id.ridon.ngobrel.contoh.model.Person;
@@ -66,6 +68,14 @@ public class AlumnusRepository {
             public void onSucceed(final List<Person> value) {
                 CachedData cachedData = (CachedData) cacheRepo;
                 cachedData.alumnus.clear();
+
+                Log.d(TAG, "onActivityCreated: sorted" + value);
+                Collections.sort(value, new Comparator<Person>() {
+                    @Override
+                    public int compare(Person o1, Person o2) {
+                        return o1.getName().compareToIgnoreCase(o2.getName());
+                    }
+                });
                 cacheRepo.save(value);
 
                 new Handler(Looper.getMainLooper()).post(new Runnable() {
